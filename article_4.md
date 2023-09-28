@@ -1,1 +1,3 @@
-hello from article 4
+# Professional 
+- In 5 years I would have obtained my UI/UX degree and will hopefully be in the field working a full time job. I really hope my passion for UI/UX hasn't changed over the years and I still enjoy it and am able to make a difference in the field.
+<img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsfGVufDB8fDB8fHww&w=1000&q=80" height=300x>

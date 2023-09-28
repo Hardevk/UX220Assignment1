@@ -1,1 +1,3 @@
-hello from article 2
+# Financial
+- I would like to gain an independence from my parents in a financial aspect. Having my own place after I graduate University would be very ideal which is why I have been investing over the years. I wouldn't say that I have a high upkeep when it comes to money, I like to think im minimalistic which is why I feel like i can achieve this goal.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMiBii0YJi7UQAmbnKAd3A2xJ8CQeNv49Pw&usqp=CAU" height=300x>

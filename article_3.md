@@ -1,1 +1,3 @@
-hello from article 3
+# Recreational
+- Even though I will be about 24 in 5 years id still like to be active. I enjoy soccer a lot and hope to join a local club and keep active and enjoying the game. I also would to continue my consistency in the gym because it is a great way to get rid of stress and will help psychical health.
+<img src="https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg" height=300x>
